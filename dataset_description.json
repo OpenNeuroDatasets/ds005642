@@ -1,7 +1,9 @@
 {
     "BIDSVersion": "1.0.0",
     "License": "CC0",
-    "Name": "EEG recordings for 300 images of human faces, illusory faces and non-face objects
-     each presented 35 times in RSVP sequences at 3.75Hz",
-    "Authors": "Taubert, J., Robinson, A.K."
+    "Name": "How the spontaneous perception of face pareidolia unfolds over time",
+    "Authors": [
+        "Taubert, J",
+        "Robinson, A.K."
+    ]
 }
