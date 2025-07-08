@@ -9,5 +9,6 @@
         "Adrian Herbert",
         "Jessica Taubert"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005642.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005642.v1.0.0",
+    "Acknowledgements": "This work was funded by an Australian Research Council Discovery Early Career Researcher Award DE200101159 (AKR) and Australian Research Council Future Fellowship FT200100843 (JT). The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript."
 }
